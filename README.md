@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 I'm a Software Developer with many years of experience. I consider myself a curious person who is always interested in learning new things.
-Now I'm learning about Blockchain and Solidity, in the future i want to be a Blockchain Developer.
+Now I'm learning about __Blockchain and Solidity__, in the future i want to be a __Blockchain Developer.__
 
 ## 🔗 Find Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-matias-jimenez/) 
@@ -18,7 +18,7 @@ Throughout my career, I worked with different technologies and frameworks. My fi
 
 ## ✨A little more of me
 
-- 🔭 I'm currently working on a betting project for Qatar Soccer Cup. Soon I will update my work.
+- 🔭 I'm currently working on a betting project for __Qatar Soccer Cup.__ Soon I will update my work.
 - 🌱 I'm currently learning Ethereum, Solidity, and BlockChain basics.
 - 👯 I'm looking to collaborate on challenging projects.
 - 💬  Ask me about anything, I am happy to help.
