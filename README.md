@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 I'm a Software Developer with many years of experience. I consider myself a curious person who is always interested in learning new things.
-Now I'm learning about Blockchain and Solidity. I love programming,teaching,excersing,and traveling.
+Now I'm learning about Blockchain and Solidity, in the future i want to be a Blockchain Developer.
 
 ## 🔗 Find Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-matias-jimenez/) 
@@ -16,7 +16,7 @@ I'm a Systems Information Engineer from the Technology University of Córdoba. T
 
 Throughout my career, I worked with different technologies and frameworks. My first steps where with Java, then i worked with C# and .NET. I worked with JavaScript, Angular and I'm learning React. I have experience with Databases MySql and SQL.
 
-## ✨A little more
+## ✨A little more of me
 
 - 🔭 I'm currently working on a betting project for Qatar Soccer Cup. Soon I will update my work.
 - 🌱 I'm currently learning Ethereum, Solidity, and BlockChain basics.
@@ -25,21 +25,15 @@ Throughout my career, I worked with different technologies and frameworks. My fi
 - 📫 How to reach me:&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/javier-matias-jimenez)
 - ⚡ Fun fact: Love tennis!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+📈 **Some Stats: (Nothing serious 😂)**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javiermatias&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiermatias&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=javiermatias)](https://git.io/streak-stats)
 
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=javiermatias&style=flat-square&color=blue" alt=""></p>
 
-<!--
-**javiermatias/javiermatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
