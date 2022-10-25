@@ -18,7 +18,7 @@ Throughout my career, I worked with different technologies and frameworks. My fi
 
 ## ✨A little more of me
 
-- 🔭 I'm currently working on a betting project for __Qatar Soccer Cup.__ Soon I will update my work.
+- 🔭 I'm currently working on Web3 projects. Soon I will update my work.
 - 🌱 I'm currently learning Ethereum, Solidity, and BlockChain basics.
 - 👯 I'm looking to collaborate on challenging projects.
 - 💬  Ask me about anything, I am happy to help.
